@@ -77,7 +77,7 @@ Projeto_cadastro/
 ## 🧪 Como Você Pode Testar Localmente
 
 1. Clone este repositório:  
-   ```bash
+
    git clone https://github.com/seuusuario/projeto-cadastro.git
    
 2. Importe o banco de dados projeto_cademail.sql no seu MySQL, no meu caso eu utilizo o Xampp como servidor web para rodar sites e aplicações que usam PHP, MySQL e outras tecnologias localmente.
