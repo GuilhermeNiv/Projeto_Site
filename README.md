@@ -91,6 +91,8 @@ Obs: A senha de app a qual me refiro acima é a gerada pelo seu provedor de dom�
 
 Execute localmente com um servidor PHP (XAMPP, WAMP, Laragon etc.)
 
+---
+
 👨‍💻 Autor:
 Guilherme Laureano | 
 Disponível para contratação | Uberlândia - MG
