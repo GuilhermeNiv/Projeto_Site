@@ -4,6 +4,14 @@ Este projeto é um sistema de cadastro de usuários, login seguro, e recuperaç�
 
 ---
 
+https://youtu.be/pL5kaJneY84
+
+## 🎥 Demonstração em vídeo
+
+[![Assista ao vídeo no YouTube](https://img.youtube.com/vi/pL5kaJneY84/hqdefault.jpg)](https://www.youtube.com/watch?v=pL5kaJneY84)
+
+---
+
 ## 💡 Funcionalidades
 
 - Cadastro de usuários com validação de e-mail via token  
